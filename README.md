@@ -1,5 +1,6 @@
 # vue-router-project
 一个小小的vue-router项目
+启动项目：在项目的根目录 npm run dev
 
 ：使用vue-cli脚手架搭建vue环境
 
